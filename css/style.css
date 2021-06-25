@@ -1,0 +1,58 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+*{
+     padding: 0px;
+     margin: 0px;
+     font-family: 'Poppins', sans-serif;
+}
+header{
+    background-color:#F0FFF0;
+    height:576px;
+}
+.navbar-brand img{
+    width:200px
+}
+.sing-in{
+    background: #21B573;
+border-radius: 33px;
+align-items: center;
+color: white;
+}
+.ddd h1{
+    font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 70px;
+}
+.ddd h6{
+    font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #FD511A;
+}
+.ddd p{
+    font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 36px;
+/* or 225% */
+
+
+color: #6C6B6B;
+}
+.get-s{
+    left: 205px;
+top: 470px;
+
+background: #21B573;
+border-radius: 33px;
+width: 153px;
+height: 43px;
+padding: 12px 36px;
+color: white;
+}
